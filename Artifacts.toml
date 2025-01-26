@@ -1,0 +1,8 @@
+[[ITK]]
+arch = "x86_64"
+git-tree-sha1 = "933f47595ed750807761598c89b5776447ebb27c"
+os = "windows"
+
+    [[ITK.download]]
+    sha256 = "8ab66fbc795f7879b1b610e1d41a5b69c074e7aceca08e040db6cced1a0590a5"
+    url = "https://github.com/divital-coder/ITK_jll.jl/releases/download/ITK-v5.3.1+3/ITK.v5.3.1.x86_64-w64-mingw32.tar.gz"
